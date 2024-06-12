@@ -1,7 +1,5 @@
-幸せok改装インスタンス
-<br><br>とりあえずインビのインスタンス置いとく<br>
-https://docs.invidious.io/instances/<br>
-https://invidious.namazso.eu/<br>
+
+
 偽装ページが違うやつ  
 ブログをブロックされるとき用  
 ASGIで動く  
