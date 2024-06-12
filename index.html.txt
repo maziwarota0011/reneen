@@ -2,7 +2,7 @@
 <head>
    <meta charset="utf-8">
     <link rel="stylesheet" href="/css/style.css">
-    <title>英単語レベルby幸せok</title>
+    <title>英単語レベルbyれんれんだよ</title>
 </head>
 <body>
 <div class="header">
